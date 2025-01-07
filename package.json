@@ -1,0 +1,19 @@
+{
+  "name": "my-typescript-project-improvements",
+  "version": "1.0.0",
+  "description": "A basic TypeScript project improvements",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node dist/index.js",        // Run the compiled JavaScript file
+    "build": "tsc",                       // Compile TypeScript files
+    "dev": "tsc --watch"                  // Watch and compile TypeScript files on change
+  },
+  "dependencies": {
+    // Add any runtime dependencies here (if needed)
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"                // TypeScript as a development dependency
+  },
+  "author": "Yogi Arif Widodo",
+  "license": "MIT"
+}
