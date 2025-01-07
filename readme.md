@@ -1,4 +1,4 @@
-# TypeScript Learning Project
+# TypeScript Learning Project Improvements | Powered By Ai
 
 This repository contains various TypeScript files that demonstrate basic to advanced TypeScript concepts. Each file focuses on a specific concept, starting from basic types to more advanced topics like function types, enums, and type aliases.
 
